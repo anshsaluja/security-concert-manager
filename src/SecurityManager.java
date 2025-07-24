@@ -11,12 +11,6 @@ package src;
  *		(L) - Add New Lines
  *		(P) - Print All Lines
  *		(Q) - Quit
- * @author 
- * 		Ansh Saluja, SBU ID #: 115184358
- * <dt><b>Assignment:</b><dd>
- *    Homework #2 for CSE 214, Spring 2023
- * <dt><b>Date:</b><dd>
- *    March 31st , 2023
  */
 import java.util.*;
 public class SecurityManager
