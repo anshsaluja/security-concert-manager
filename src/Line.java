@@ -3,13 +3,6 @@ package src;
 /**
  * An abstract data type meant to serve as a representation of a 
  * Line, containing the headPerson, tailPerson, length, lineLink and methods to manipulate these values. 
- * 
- * @author 
- * 		Ansh Saluja, SBU ID #: 115184358
- * <dt><b>Assignment:</b><dd>
- *    Homework #2 for CSE 214, Spring 2023
- * <dt><b>Date:</b><dd>
- *   March 31st, 2023
  */
 
 	public class Line
