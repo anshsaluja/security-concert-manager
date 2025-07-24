@@ -3,14 +3,6 @@ package src;
 /**
  * An abstract data type meant to serve as a representation of a 
  * Managing the line , containing the headLine, tailLine, cursorLine, lineNumber, intitalLine, lineCount, operations and methods to manipulate these values. 
- * 
- * @author 
- * 		Anuj Sureshbhai Dakhara, SBU ID #: 115025587
- * <dt><b>Assignment:</b><dd>
- *    Homework #2 for CSE 214, Spring 2023
- * 		Recitation #: R07
- * <dt><b>Date:</b><dd>
- *   March 31st, 2023
  */
 
 	public class SecurityCheck
